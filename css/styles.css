@@ -1,0 +1,43 @@
+body {
+    background-color: #F0F7FD
+}
+.amc-white {
+    color: white;
+}
+
+.amc-menu-right{
+    float: right;
+   
+}
+
+.amc-selector{
+    color: #000000;
+    border-color: #40a9ff;
+    background-color: #fff; 
+    border: 1px solid #d9d9d9;
+}
+
+.amc-card{
+    background-color: #323741!important;
+  
+   
+    font-weight: 700;
+}
+.amc-card-one{
+    margin: 5px;
+    text-align: center;
+    color: white;
+    background-color: #44a0c4 !important;
+    font-size: 24px;
+ }
+
+ .card {
+     padding: 15px;
+     padding-right: 30px;
+     width: 250px;
+ }
+
+ .amc-select{
+     width: 200px;
+
+ }
